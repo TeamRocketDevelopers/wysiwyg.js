@@ -26,12 +26,7 @@
   "dependencies": {
     "jquery": ">=1.11.0"
   },
-  "_release": "015d418c27",
-  "_resolution": {
-    "type": "commit",
-    "commit": "015d418c2718030b0156ceb008c717d36a2f52cf"
-  },
-  "_source": "https://github.com/wysiwygjs/wysiwyg.js.git",
-  "_target": "015d418c2718030b0156ceb008c717d36a2f52cf",
-  "_originalSource": "https://github.com/wysiwygjs/wysiwyg.js.git"
+  "_source": "https://github.com/TeamRocketDevelopers/wysiwyg.js.git",
+  "_target": "717e66b8fd6d1911e619990920e12341daa1317f",
+  "_originalSource": "https://github.com/TeamRocketDevelopers/wysiwyg.js.git"
 }
